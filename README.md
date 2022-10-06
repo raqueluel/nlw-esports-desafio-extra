@@ -1,6 +1,6 @@
 # NLW eSports - Desafio Extra
 
-! [preview](./github/preview.png)
+![preview](./github/preview.png)
 
 > Desafio Extra
 
