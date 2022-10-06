@@ -16,5 +16,5 @@ Desafio Extra construído no evento Next Level Week da Rocketseat.
 
 ## Contato
 
-raquel.santo.pereira2000@gmail.com
+raquel.santos.pereira2000@gmail.com
 
